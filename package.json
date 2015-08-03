@@ -1,6 +1,6 @@
 {
   "name": "rct1-remap-colors",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Linus Unnebäck <linus@folkdatorn.se>",
   "main": "index.js",
   "repository": {
