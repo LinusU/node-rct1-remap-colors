@@ -1,0 +1,10 @@
+{
+  "name": "rct1-remap-colors",
+  "version": "0.0.0",
+  "author": "Linus Unnebäck <linus@folkdatorn.se>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/LinusU/node-rct1-remap-colors.git"
+  }
+}
